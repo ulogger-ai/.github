@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/images/logo-dark.png">
-    <img alt="uLogger" src="profile/images/logo-light.png" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo-dark.png">
+    <img alt="uLogger" src="images/logo-light.png" width="420">
   </picture>
 </p>
 
